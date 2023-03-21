@@ -9,6 +9,9 @@
 	text-align:center;
 	
 }
+img{
+	width:100%;
+}
 a{
 	background-color: red;
 	color: white;
