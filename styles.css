@@ -10,7 +10,7 @@
 	
 }
 img{
-	width:100%;
+	cover:fit;
 }
 a{
 	background-color: red;
