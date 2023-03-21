@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+.hero{
+	display:flex;
+}
+.title{
+	border: 0px solid red;
+	margin: 25px 30px 20px 50px;
+/* 	gap:0px; */
+	font-size:8px;
+	text-align:center;
+	
+}
