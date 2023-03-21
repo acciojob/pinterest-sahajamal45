@@ -10,7 +10,7 @@
 	
 }
 img{
-	cover:fit;
+	object-fit: cover;
 }
 a{
 	background-color: red;
